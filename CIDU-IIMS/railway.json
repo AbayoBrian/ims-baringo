@@ -1,0 +1,6 @@
+{
+  "build": {
+    "buildCommand": "cd CIDU-IIMS && pip install -r requirements.txt",
+    "startCommand": "cd CIDU-IIMS && python app.py"
+  }
+}
